@@ -1,1 +1,1 @@
-# kms_cbe
+# KMS iOS APP分发渠道

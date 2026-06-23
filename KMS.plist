@@ -29,7 +29,7 @@
             <dict>
                 <!-- 应用唯一包名（Bundle ID）：打包时配置的ID必须是 com.inspur.obd.cbe.kms，否则安装失败 -->
                 <key>bundle-identifier</key>
-                <string>ccom.inspur.obd.cbe.kms</string>
+                <string>com.inspur.obd.cbe.kms</string>
                 <!-- 版本号 -->
                 <key>bundle-version</key>
                 <string>100</string>
